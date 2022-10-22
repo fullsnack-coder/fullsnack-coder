@@ -6,3 +6,7 @@
 - 🔭 Frontend developer, TypeScript Lover
 - 🌱 I’m currently learning and improving mobile technologies on RN
 - 💬 Contact me via [website](https://snack-coder.netlify.app/contact)
+
+### My holopin badges 
+
+[![@chokidar's Holopin board](https://holopin.me/chokidar)](https://holopin.io/@chokidar)
